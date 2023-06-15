@@ -1,0 +1,9 @@
+requirements-
+
+jupyter notebook
+numpy
+pandas
+matplotlib
+seaborn
+ipywidjets
+sklearn
